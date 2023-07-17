@@ -1,9 +1,9 @@
-# RepoName
+# VS_2017_Community
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/VS_2017_Community
 ```
 
 ## Notes
